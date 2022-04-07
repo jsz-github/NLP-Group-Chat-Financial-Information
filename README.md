@@ -1,5 +1,9 @@
 # NLP-Group-Chat-Financial-Information
 Feature extraction experiment
 
-keras+Gpu
+environment：keras+Gpu
+
+model：BiLSTM+CRF
+
+
 
